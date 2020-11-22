@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="build/generated/ap_generated_sources/debug/out"/>
+	<classpathentry kind="src" path="build/generated/aidl_source_output_dir/debug/out"/>
+	<classpathentry kind="src" path="build/generated/source/buildConfig/debug"/>
+	<classpathentry kind="src" path="build/generated/renderscript_source_output_dir/debug/out"/>
+	<classpathentry kind="src" path="build/generated/res/rs/debug"/>
+	<classpathentry kind="src" path="build/generated/ap_generated_sources/debugAndroidTest/out"/>
+	<classpathentry kind="src" path="build/generated/aidl_source_output_dir/debugAndroidTest/out"/>
+	<classpathentry kind="src" path="build/generated/source/buildConfig/androidTest/debug"/>
+	<classpathentry kind="src" path="build/generated/renderscript_source_output_dir/debugAndroidTest/out"/>
+	<classpathentry kind="src" path="build/generated/res/rs/androidTest/debug"/>
+	<classpathentry kind="src" path="build/generated/ap_generated_sources/debugUnitTest/out"/>
+	<classpathentry kind="src" path="src/debug/res"/>
+	<classpathentry kind="src" path="src/debug/resources"/>
+	<classpathentry kind="src" path="src/debug/assets"/>
+	<classpathentry kind="src" path="src/debug/aidl"/>
+	<classpathentry kind="src" path="src/debug/java"/>
+	<classpathentry kind="src" path="src/debug/rs"/>
+	<classpathentry kind="src" path="src/debug/shaders"/>
+	<classpathentry kind="src" path="src/androidTestDebug/res"/>
+	<classpathentry kind="src" path="src/androidTestDebug/resources"/>
+	<classpathentry kind="src" path="src/androidTestDebug/assets"/>
+	<classpathentry kind="src" path="src/androidTestDebug/aidl"/>
+	<classpathentry kind="src" path="src/androidTestDebug/java"/>
+	<classpathentry kind="src" path="src/androidTestDebug/rs"/>
+	<classpathentry kind="src" path="src/androidTestDebug/shaders"/>
+	<classpathentry kind="src" path="src/testDebug/res"/>
+	<classpathentry kind="src" path="src/testDebug/resources"/>
+	<classpathentry kind="src" path="src/testDebug/assets"/>
+	<classpathentry kind="src" path="src/testDebug/aidl"/>
+	<classpathentry kind="src" path="src/testDebug/java"/>
+	<classpathentry kind="src" path="src/testDebug/rs"/>
+	<classpathentry kind="src" path="src/testDebug/shaders"/>
+	<classpathentry kind="src" path="src/main/res"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="src" path="src/main/assets"/>
+	<classpathentry kind="src" path="src/main/aidl"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/main/rs"/>
+	<classpathentry kind="src" path="src/main/shaders"/>
+	<classpathentry kind="src" path="src/androidTest/res"/>
+	<classpathentry kind="src" path="src/androidTest/resources"/>
+	<classpathentry kind="src" path="src/androidTest/assets"/>
+	<classpathentry kind="src" path="src/androidTest/aidl"/>
+	<classpathentry kind="src" path="src/androidTest/java"/>
+	<classpathentry kind="src" path="src/androidTest/rs"/>
+	<classpathentry kind="src" path="src/androidTest/shaders"/>
+	<classpathentry kind="src" path="src/test/res"/>
+	<classpathentry kind="src" path="src/test/resources"/>
+	<classpathentry kind="src" path="src/test/assets"/>
+	<classpathentry kind="src" path="src/test/aidl"/>
+	<classpathentry kind="src" path="src/test/java"/>
+	<classpathentry kind="src" path="src/test/rs"/>
+	<classpathentry kind="src" path="src/test/shaders"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: org.firstinspires.ftc:RobotCore:5.5@aar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: org.firstinspires.ftc:Hardware:5.5@aar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: org.firstinspires.ftc:FtcCommon:5.5@aar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: :WirelessP2p-release:@aar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: :tensorflow-lite-0.0.0-nightly:@aar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ultimategoal-youngdroids.FtcRobotController"/>
+	<classpathentry kind="output" path="build/intermediates/javac/debug/classes"/>
+</classpath>

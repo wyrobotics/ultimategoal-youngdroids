@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Gradle: androidx.arch.core:core-common:2.1.0@jar">
+    <archive path="C:/Users/Layla/.gradle/caches/modules-2/files-2.1/androidx.arch.core/core-common/2.1.0/b3152fc64428c9354344bd89848ecddc09b6f07e/core-common-2.1.0.jar" />
+  </library>
+  <library name="Gradle: androidx.annotation:annotation:1.1.0@jar">
+    <archive path="C:/Users/Layla/.gradle/caches/modules-2/files-2.1/androidx.annotation/annotation/1.1.0/e3a6fb2f40e3a3842e6b7472628ba4ce416ea4c8/annotation-1.1.0.jar" />
+  </library>
+  <library name="Gradle: androidx.collection:collection:1.1.0@jar">
+    <archive path="C:/Users/Layla/.gradle/caches/modules-2/files-2.1/androidx.collection/collection/1.1.0/1f27220b47669781457de0d600849a5de0e89909/collection-1.1.0.jar" />
+  </library>
+  <library name="Gradle: androidx.lifecycle:lifecycle-common:2.1.0@jar">
+    <archive path="C:/Users/Layla/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.1.0/c67e7807d9cd6c329b9d0218b2ec4e505dd340b7/lifecycle-common-2.1.0.jar" />
+  </library>
+  <library name="Gradle: androidx.cursoradapter:cursoradapter:1.0.0@aar">
+    <archive path="C:/Users/Layla/.gradle/caches/transforms-2/files-2.1/7c0677be8011741026309ef690a9f4db/cursoradapter-1.0.0/jars/classes.jar" />
+  </library>
+  <library name="Gradle: androidx.lifecycle:lifecycle-livedata-core:2.0.0@aar">
+    <archive path="C:/Users/Layla/.gradle/caches/transforms-2/files-2.1/7282e00d74c6a6acf53f4bfd68421266/lifecycle-livedata-core-2.0.0/jars/classes.jar" />
+  </library>
+  <library name="Gradle: androidx.versionedparcelable:versionedparcelable:1.1.0@aar">
+    <archive path="C:/Users/Layla/.gradle/caches/transforms-2/files-2.1/67aa86ef8808cac41aa5afe6d271f3ea/versionedparcelable-1.1.0/jars/classes.jar" />
+  </library>
+  <library name="Gradle: androidx.viewpager:viewpager:1.0.0@aar">
+    <archive path="C:/Users/Layla/.gradle/caches/transforms-2/files-2.1/ebc8011c39d26c440b76466a9b971345/viewpager-1.0.0/jars/classes.jar" />
+  </library>
+  <library name="Gradle: androidx.arch.core:core-runtime:2.0.0@aar">
+    <archive path="C:/Users/Layla/.gradle/caches/transforms-2/files-2.1/73114719268a97e9fd391905563b2ee9/core-runtime-2.0.0/jars/classes.jar" />
+  </library>
+  <library name="Gradle: androidx.vectordrawable:vectordrawable:1.1.0@aar">
+    <archive path="C:/Users/Layla/.gradle/caches/transforms-2/files-2.1/0878a65179abd6a1b5016c6981bce614/vectordrawable-1.1.0/jars/classes.jar" />
+  </library>
+  <library name="Gradle: androidx.lifecycle:lifecycle-viewmodel:2.1.0@aar">
+    <archive path="C:/Users/Layla/.gradle/caches/transforms-2/files-2.1/8cf26fd0d5f767ad6dfe1019ab25b952/lifecycle-viewmodel-2.1.0/jars/classes.jar" />
+  </library>
+  <library name="Gradle: org.firstinspires.ftc:Blocks:5.5@aar">
+    <archive path="C:/Users/Layla/.gradle/caches/transforms-2/files-2.1/7f4ef07317443981974298758f95a8d8/jetified-Blocks-5.5/jars/classes.jar" />
+    <archive path="C:/Users/Layla/.gradle/caches/transforms-2/files-2.1/7f4ef07317443981974298758f95a8d8/jetified-Blocks-5.5/res" />
+  </library>
+  <library name="Gradle: org.firstinspires.ftc:Hardware:5.5@aar">
+    <archive path="C:/Users/Layla/.gradle/caches/transforms-2/files-2.1/4a055c62e8409626b2e61ce4fed92546/jetified-Hardware-5.5/jars/classes.jar" />
+    <archive path="C:/Users/Layla/.gradle/caches/transforms-2/files-2.1/4a055c62e8409626b2e61ce4fed92546/jetified-Hardware-5.5/res" />
+  </library>
+  <library name="Gradle: androidx.core:core:1.3.0@aar">
+    <archive path="C:/Users/Layla/.gradle/caches/transforms-2/files-2.1/429fb715fcc7711d4ab133e350b6f531/core-1.3.0/jars/classes.jar" />
+    <archive path="C:/Users/Layla/.gradle/caches/transforms-2/files-2.1/429fb715fcc7711d4ab133e350b6f531/core-1.3.0/res" />
+  </library>
+  <library name="Gradle: androidx.appcompat:appcompat-resources:1.2.0@aar">
+    <archive path="C:/Users/Layla/.gradle/caches/transforms-2/files-2.1/ee9b51f71825564f346013ea1d4d0318/jetified-appcompat-resources-1.2.0/jars/classes.jar" />
+    <archive path="C:/Users/Layla/.gradle/caches/transforms-2/files-2.1/ee9b51f71825564f346013ea1d4d0318/jetified-appcompat-resources-1.2.0/res" />
+  </library>
+  <library name="Gradle: :tensorflow-lite-0.0.0-nightly:@aar">
+    <archive path="C:/Users/Layla/.gradle/caches/transforms-2/files-2.1/8de39f8baae639b9b1caa67458fd4c35/jetified-tensorflow-lite-0.0.0-nightly/jars/classes.jar" />
+  </library>
+  <library name="Gradle: androidx.activity:activity:1.0.0@aar">
+    <archive path="C:/Users/Layla/.gradle/caches/transforms-2/files-2.1/f52c60a67eb4c2183a64b296ae574169/jetified-activity-1.0.0/jars/classes.jar" />
+  </library>
+  <library name="Gradle: androidx.lifecycle:lifecycle-livedata:2.0.0@aar">
+    <archive path="C:/Users/Layla/.gradle/caches/transforms-2/files-2.1/c6f1e76c078a7e4f5288325854cab247/lifecycle-livedata-2.0.0/jars/classes.jar" />
+  </library>
+  <library name="Gradle: org.firstinspires.ftc:RobotServer:5.5@aar">
+    <archive path="C:/Users/Layla/.gradle/caches/transforms-2/files-2.1/863697c9f840ef2d53a4a5dc580edbc9/jetified-RobotServer-5.5/jars/classes.jar" />
+    <archive path="C:/Users/Layla/.gradle/caches/transforms-2/files-2.1/863697c9f840ef2d53a4a5dc580edbc9/jetified-RobotServer-5.5/res" />
+    <archive path="C:/Users/Layla/.gradle/caches/transforms-2/files-2.1/863697c9f840ef2d53a4a5dc580edbc9/jetified-RobotServer-5.5/jars/libs/Java-WebSocket-1.4.1-20190423.174615-6.jar" />
+  </library>
+  <library name="Gradle: org.firstinspires.ftc:Inspection:5.5@aar">
+    <archive path="C:/Users/Layla/.gradle/caches/transforms-2/files-2.1/167d4d599d6409ea1be3fe7e53077bd4/jetified-Inspection-5.5/jars/classes.jar" />
+    <archive path="C:/Users/Layla/.gradle/caches/transforms-2/files-2.1/167d4d599d6409ea1be3fe7e53077bd4/jetified-Inspection-5.5/res" />
+  </library>
+  <library name="Gradle: org.firstinspires.ftc:RobotCore:5.5@aar">
+    <archive path="C:/Users/Layla/.gradle/caches/transforms-2/files-2.1/871a3f7de8bc62c0c27b3c30ba54e780/jetified-RobotCore-5.5/jars/classes.jar" />
+    <archive path="C:/Users/Layla/.gradle/caches/transforms-2/files-2.1/871a3f7de8bc62c0c27b3c30ba54e780/jetified-RobotCore-5.5/res" />
+    <archive path="C:/Users/Layla/.gradle/caches/transforms-2/files-2.1/871a3f7de8bc62c0c27b3c30ba54e780/jetified-RobotCore-5.5/jars/libs/androidx-rs.jar" />
+    <archive path="C:/Users/Layla/.gradle/caches/transforms-2/files-2.1/871a3f7de8bc62c0c27b3c30ba54e780/jetified-RobotCore-5.5/jars/libs/gson-2.8.0.jar" />
+    <archive path="C:/Users/Layla/.gradle/caches/transforms-2/files-2.1/871a3f7de8bc62c0c27b3c30ba54e780/jetified-RobotCore-5.5/jars/libs/gson-extras-0.2.1.jar" />
+    <archive path="C:/Users/Layla/.gradle/caches/transforms-2/files-2.1/871a3f7de8bc62c0c27b3c30ba54e780/jetified-RobotCore-5.5/jars/libs/slf4j-api-1.7.26.jar" />
+    <archive path="C:/Users/Layla/.gradle/caches/transforms-2/files-2.1/871a3f7de8bc62c0c27b3c30ba54e780/jetified-RobotCore-5.5/jars/libs/slf4j-handroid-1.7.27.jar" />
+    <archive path="C:/Users/Layla/.gradle/caches/transforms-2/files-2.1/871a3f7de8bc62c0c27b3c30ba54e780/jetified-RobotCore-5.5/jars/libs/Vuforia.jar" />
+  </library>
+  <library name="Gradle: androidx.interpolator:interpolator:1.0.0@aar">
+    <archive path="C:/Users/Layla/.gradle/caches/transforms-2/files-2.1/bcf856ddfeb04b3b73ed182739910d39/interpolator-1.0.0/jars/classes.jar" />
+  </library>
+  <library name="Gradle: androidx.customview:customview:1.0.0@aar">
+    <archive path="C:/Users/Layla/.gradle/caches/transforms-2/files-2.1/d1ea25f3382273eed14315b543469208/customview-1.0.0/jars/classes.jar" />
+  </library>
+  <library name="Gradle: androidx.fragment:fragment:1.1.0@aar">
+    <archive path="C:/Users/Layla/.gradle/caches/transforms-2/files-2.1/12c076570219bdc2a11e9d0df335391a/fragment-1.1.0/jars/classes.jar" />
+  </library>
+  <library name="Gradle: androidx.vectordrawable:vectordrawable-animated:1.1.0@aar">
+    <archive path="C:/Users/Layla/.gradle/caches/transforms-2/files-2.1/32488318cfc756fa0f6ae91e625fa530/vectordrawable-animated-1.1.0/jars/classes.jar" />
+  </library>
+  <library name="Gradle: androidx.lifecycle:lifecycle-runtime:2.1.0@aar">
+    <archive path="C:/Users/Layla/.gradle/caches/transforms-2/files-2.1/098c479f6892902db16f6d5e04f3818b/lifecycle-runtime-2.1.0/jars/classes.jar" />
+  </library>
+  <library name="Gradle: :WirelessP2p-release:@aar">
+    <archive path="C:/Users/Layla/.gradle/caches/transforms-2/files-2.1/05c31de1884ac19cf0cfe8781806ada7/jetified-WirelessP2p-release/jars/classes.jar" />
+  </library>
+  <library name="Gradle: org.firstinspires.ftc:FtcCommon:5.5@aar">
+    <archive path="C:/Users/Layla/.gradle/caches/transforms-2/files-2.1/f1a33ae9f67dd71d9352001cd0d2c456/jetified-FtcCommon-5.5/jars/classes.jar" />
+    <archive path="C:/Users/Layla/.gradle/caches/transforms-2/files-2.1/f1a33ae9f67dd71d9352001cd0d2c456/jetified-FtcCommon-5.5/res" />
+  </library>
+  <library name="Gradle: androidx.loader:loader:1.0.0@aar">
+    <archive path="C:/Users/Layla/.gradle/caches/transforms-2/files-2.1/2118a7099009bdd29f0289728ee82c0d/loader-1.0.0/jars/classes.jar" />
+  </library>
+  <library name="Gradle: org.firstinspires.ftc:OnBotJava:5.5@aar">
+    <archive path="C:/Users/Layla/.gradle/caches/transforms-2/files-2.1/a7406e1774604f921223e045aaddd901/jetified-OnBotJava-5.5/jars/classes.jar" />
+    <archive path="C:/Users/Layla/.gradle/caches/transforms-2/files-2.1/a7406e1774604f921223e045aaddd901/jetified-OnBotJava-5.5/res" />
+    <archive path="C:/Users/Layla/.gradle/caches/transforms-2/files-2.1/a7406e1774604f921223e045aaddd901/jetified-OnBotJava-5.5/jars/libs/javac.jar" />
+  </library>
+  <library name="Gradle: androidx.savedstate:savedstate:1.0.0@aar">
+    <archive path="C:/Users/Layla/.gradle/caches/transforms-2/files-2.1/86f8c8e32c7613bbe5e86eb4377e9413/jetified-savedstate-1.0.0/jars/classes.jar" />
+  </library>
+  <library name="Gradle: androidx.drawerlayout:drawerlayout:1.0.0@aar">
+    <archive path="C:/Users/Layla/.gradle/caches/transforms-2/files-2.1/4c1ade53cc4b20d7bc631ac17d3bfca4/drawerlayout-1.0.0/jars/classes.jar" />
+  </library>
+  <library name="Gradle: androidx.appcompat:appcompat:1.2.0@aar">
+    <archive path="C:/Users/Layla/.gradle/caches/transforms-2/files-2.1/bf96d2b5a86ecd602a621e7e96856420/appcompat-1.2.0/jars/classes.jar" />
+    <archive path="C:/Users/Layla/.gradle/caches/transforms-2/files-2.1/bf96d2b5a86ecd602a621e7e96856420/appcompat-1.2.0/res" />
+  </library>
+</eclipse-userlibraries>
+

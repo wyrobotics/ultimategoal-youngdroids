@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component LANGUAGE_LEVEL="JDK_1_7" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/../../../FtcRobotController/build/intermediates/javac/debugUnitTest/classes"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$/../../../FtcRobotController">
+		<testFolder url="file://$MODULE_DIR$/../../../FtcRobotController/build/generated/ap_generated_sources/debugAndroidTest/out"/>
+		<testFolder url="file://$MODULE_DIR$/../../../FtcRobotController/build/generated/aidl_source_output_dir/debugAndroidTest/out"/>
+		<testFolder url="file://$MODULE_DIR$/../../../FtcRobotController/build/generated/source/buildConfig/androidTest/debug"/>
+		<testFolder url="file://$MODULE_DIR$/../../../FtcRobotController/build/generated/renderscript_source_output_dir/debugAndroidTest/out"/>
+		<testFolder url="file://$MODULE_DIR$/../../../FtcRobotController/build/generated/res/rs/androidTest/debug"/>
+		<testFolder url="file://$MODULE_DIR$/../../../FtcRobotController/build/generated/ap_generated_sources/debugUnitTest/out"/>
+		<testFolder url="file://$MODULE_DIR$/../../../FtcRobotController/src/androidTestDebug/res"/>
+		<testFolder url="file://$MODULE_DIR$/../../../FtcRobotController/src/androidTestDebug/resources"/>
+		<testFolder url="file://$MODULE_DIR$/../../../FtcRobotController/src/androidTestDebug/assets"/>
+		<testFolder url="file://$MODULE_DIR$/../../../FtcRobotController/src/androidTestDebug/aidl"/>
+		<testFolder url="file://$MODULE_DIR$/../../../FtcRobotController/src/androidTestDebug/java"/>
+		<testFolder url="file://$MODULE_DIR$/../../../FtcRobotController/src/androidTestDebug/rs"/>
+		<testFolder url="file://$MODULE_DIR$/../../../FtcRobotController/src/androidTestDebug/shaders"/>
+		<testFolder url="file://$MODULE_DIR$/../../../FtcRobotController/src/testDebug/res"/>
+		<testFolder url="file://$MODULE_DIR$/../../../FtcRobotController/src/testDebug/resources"/>
+		<testFolder url="file://$MODULE_DIR$/../../../FtcRobotController/src/testDebug/assets"/>
+		<testFolder url="file://$MODULE_DIR$/../../../FtcRobotController/src/testDebug/aidl"/>
+		<testFolder url="file://$MODULE_DIR$/../../../FtcRobotController/src/testDebug/java"/>
+		<testFolder url="file://$MODULE_DIR$/../../../FtcRobotController/src/testDebug/rs"/>
+		<testFolder url="file://$MODULE_DIR$/../../../FtcRobotController/src/testDebug/shaders"/>
+		<testFolder url="file://$MODULE_DIR$/../../../FtcRobotController/src/androidTest/res"/>
+		<testFolder url="file://$MODULE_DIR$/../../../FtcRobotController/src/androidTest/resources"/>
+		<testFolder url="file://$MODULE_DIR$/../../../FtcRobotController/src/androidTest/assets"/>
+		<testFolder url="file://$MODULE_DIR$/../../../FtcRobotController/src/androidTest/aidl"/>
+		<testFolder url="file://$MODULE_DIR$/../../../FtcRobotController/src/androidTest/java"/>
+		<testFolder url="file://$MODULE_DIR$/../../../FtcRobotController/src/androidTest/rs"/>
+		<testFolder url="file://$MODULE_DIR$/../../../FtcRobotController/src/androidTest/shaders"/>
+		<testFolder url="file://$MODULE_DIR$/../../../FtcRobotController/src/test/res"/>
+		<testFolder url="file://$MODULE_DIR$/../../../FtcRobotController/src/test/resources"/>
+		<testFolder url="file://$MODULE_DIR$/../../../FtcRobotController/src/test/assets"/>
+		<testFolder url="file://$MODULE_DIR$/../../../FtcRobotController/src/test/aidl"/>
+		<testFolder url="file://$MODULE_DIR$/../../../FtcRobotController/src/test/java"/>
+		<testFolder url="file://$MODULE_DIR$/../../../FtcRobotController/src/test/rs"/>
+		<testFolder url="file://$MODULE_DIR$/../../../FtcRobotController/src/test/shaders"/>
+		<excludeFolder url="file://$MODULE_DIR$/../../../FtcRobotController/build"/>
+	</contentEntry>
+	<levels>
+		<level name="Gradle: androidx.collection:collection:1.1.0@jar" value="project"/>
+		<level name="Gradle: androidx.lifecycle:lifecycle-common:2.1.0@jar" value="project"/>
+		<level name="Gradle: androidx.arch.core:core-common:2.1.0@jar" value="project"/>
+		<level name="Gradle: androidx.annotation:annotation:1.1.0@jar" value="project"/>
+		<level name="Gradle: org.firstinspires.ftc:Inspection:5.5@aar" value="project"/>
+		<level name="Gradle: org.firstinspires.ftc:Blocks:5.5@aar" value="project"/>
+		<level name="Gradle: org.firstinspires.ftc:RobotCore:5.5@aar" value="project"/>
+		<level name="Gradle: org.firstinspires.ftc:RobotServer:5.5@aar" value="project"/>
+		<level name="Gradle: org.firstinspires.ftc:OnBotJava:5.5@aar" value="project"/>
+		<level name="Gradle: org.firstinspires.ftc:Hardware:5.5@aar" value="project"/>
+		<level name="Gradle: org.firstinspires.ftc:FtcCommon:5.5@aar" value="project"/>
+		<level name="Gradle: androidx.appcompat:appcompat:1.2.0@aar" value="project"/>
+		<level name="Gradle: androidx.fragment:fragment:1.1.0@aar" value="project"/>
+		<level name="Gradle: androidx.appcompat:appcompat-resources:1.2.0@aar" value="project"/>
+		<level name="Gradle: androidx.drawerlayout:drawerlayout:1.0.0@aar" value="project"/>
+		<level name="Gradle: androidx.viewpager:viewpager:1.0.0@aar" value="project"/>
+		<level name="Gradle: androidx.loader:loader:1.0.0@aar" value="project"/>
+		<level name="Gradle: androidx.activity:activity:1.0.0@aar" value="project"/>
+		<level name="Gradle: androidx.vectordrawable:vectordrawable-animated:1.1.0@aar" value="project"/>
+		<level name="Gradle: androidx.vectordrawable:vectordrawable:1.1.0@aar" value="project"/>
+		<level name="Gradle: androidx.customview:customview:1.0.0@aar" value="project"/>
+		<level name="Gradle: androidx.core:core:1.3.0@aar" value="project"/>
+		<level name="Gradle: androidx.cursoradapter:cursoradapter:1.0.0@aar" value="project"/>
+		<level name="Gradle: androidx.lifecycle:lifecycle-runtime:2.1.0@aar" value="project"/>
+		<level name="Gradle: androidx.versionedparcelable:versionedparcelable:1.1.0@aar" value="project"/>
+		<level name="Gradle: androidx.lifecycle:lifecycle-viewmodel:2.1.0@aar" value="project"/>
+		<level name="Gradle: androidx.savedstate:savedstate:1.0.0@aar" value="project"/>
+		<level name="Gradle: androidx.lifecycle:lifecycle-livedata:2.0.0@aar" value="project"/>
+		<level name="Gradle: androidx.lifecycle:lifecycle-livedata-core:2.0.0@aar" value="project"/>
+		<level name="Gradle: androidx.arch.core:core-runtime:2.0.0@aar" value="project"/>
+		<level name="Gradle: androidx.interpolator:interpolator:1.0.0@aar" value="project"/>
+		<level name="Gradle: :WirelessP2p-release:@aar" value="project"/>
+	</levels>
+</component>

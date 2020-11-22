@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component LANGUAGE_LEVEL="JDK_1_7" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/../../../TeamCode/build/intermediates/javac/debugUnitTest/classes"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$/../../../TeamCode">
+		<testFolder url="file://$MODULE_DIR$/../../../TeamCode/build/generated/ap_generated_sources/debugAndroidTest/out"/>
+		<testFolder url="file://$MODULE_DIR$/../../../TeamCode/build/generated/aidl_source_output_dir/debugAndroidTest/out"/>
+		<testFolder url="file://$MODULE_DIR$/../../../TeamCode/build/generated/source/buildConfig/androidTest/debug"/>
+		<testFolder url="file://$MODULE_DIR$/../../../TeamCode/build/generated/renderscript_source_output_dir/debugAndroidTest/out"/>
+		<testFolder url="file://$MODULE_DIR$/../../../TeamCode/build/generated/res/rs/androidTest/debug"/>
+		<testFolder url="file://$MODULE_DIR$/../../../TeamCode/build/generated/ap_generated_sources/debugUnitTest/out"/>
+		<testFolder url="file://$MODULE_DIR$/../../../TeamCode/src/androidTestDebug/res"/>
+		<testFolder url="file://$MODULE_DIR$/../../../TeamCode/src/androidTestDebug/resources"/>
+		<testFolder url="file://$MODULE_DIR$/../../../TeamCode/src/androidTestDebug/assets"/>
+		<testFolder url="file://$MODULE_DIR$/../../../TeamCode/src/androidTestDebug/aidl"/>
+		<testFolder url="file://$MODULE_DIR$/../../../TeamCode/src/androidTestDebug/java"/>
+		<testFolder url="file://$MODULE_DIR$/../../../TeamCode/src/androidTestDebug/rs"/>
+		<testFolder url="file://$MODULE_DIR$/../../../TeamCode/src/androidTestDebug/shaders"/>
+		<testFolder url="file://$MODULE_DIR$/../../../TeamCode/src/testDebug/res"/>
+		<testFolder url="file://$MODULE_DIR$/../../../TeamCode/src/testDebug/resources"/>
+		<testFolder url="file://$MODULE_DIR$/../../../TeamCode/src/testDebug/assets"/>
+		<testFolder url="file://$MODULE_DIR$/../../../TeamCode/src/testDebug/aidl"/>
+		<testFolder url="file://$MODULE_DIR$/../../../TeamCode/src/testDebug/java"/>
+		<testFolder url="file://$MODULE_DIR$/../../../TeamCode/src/testDebug/rs"/>
+		<testFolder url="file://$MODULE_DIR$/../../../TeamCode/src/testDebug/shaders"/>
+		<testFolder url="file://$MODULE_DIR$/../../../TeamCode/src/androidTest/res"/>
+		<testFolder url="file://$MODULE_DIR$/../../../TeamCode/src/androidTest/resources"/>
+		<testFolder url="file://$MODULE_DIR$/../../../TeamCode/src/androidTest/assets"/>
+		<testFolder url="file://$MODULE_DIR$/../../../TeamCode/src/androidTest/aidl"/>
+		<testFolder url="file://$MODULE_DIR$/../../../TeamCode/src/androidTest/java"/>
+		<testFolder url="file://$MODULE_DIR$/../../../TeamCode/src/androidTest/rs"/>
+		<testFolder url="file://$MODULE_DIR$/../../../TeamCode/src/androidTest/shaders"/>
+		<testFolder url="file://$MODULE_DIR$/../../../TeamCode/src/test/res"/>
+		<testFolder url="file://$MODULE_DIR$/../../../TeamCode/src/test/resources"/>
+		<testFolder url="file://$MODULE_DIR$/../../../TeamCode/src/test/assets"/>
+		<testFolder url="file://$MODULE_DIR$/../../../TeamCode/src/test/aidl"/>
+		<testFolder url="file://$MODULE_DIR$/../../../TeamCode/src/test/java"/>
+		<testFolder url="file://$MODULE_DIR$/../../../TeamCode/src/test/rs"/>
+		<testFolder url="file://$MODULE_DIR$/../../../TeamCode/src/test/shaders"/>
+		<excludeFolder url="file://$MODULE_DIR$/../../../TeamCode/build"/>
+	</contentEntry>
+	<levels>
+		<level name="Gradle: org.firstinspires.ftc:RobotCore:5.5@aar" value="project"/>
+		<level name="Gradle: org.firstinspires.ftc:Hardware:5.5@aar" value="project"/>
+		<level name="Gradle: org.firstinspires.ftc:FtcCommon:5.5@aar" value="project"/>
+		<level name="Gradle: :WirelessP2p-release:@aar" value="project"/>
+		<level name="Gradle: :tensorflow-lite-0.0.0-nightly:@aar" value="project"/>
+	</levels>
+</component>
